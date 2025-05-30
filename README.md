@@ -22,11 +22,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=neel1112&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!--## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/n_e_e_l_.11)--> 
+
+<!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/n_e_e_l_.11)--> 
 
 
-## 🏆 Connect With Me:
+## 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/neel merja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neel merja" height="30" width="40" /></a>
 <a href="https://fb.com/neel merja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="neel merja" height="30" width="40" /></a>
@@ -48,3 +48,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neel1112&show_icons=true&locale=en" alt="neel1112" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neel1112&" alt="neel1112" /></p>-->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=neel1112&limit=5&theme=dark&combine_all_yearly_contributions=true)
