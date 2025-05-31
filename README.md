@@ -67,14 +67,13 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=neel1112&theme=react&show_icons=true" height="180" style="border: 1px solid white; border-radius: 8px; margin: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=neel1112&theme=react&show_icons=true" height="180" style="border: 1px solid white; border-radius: 8px; margin: 10px;" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=neel1112&theme=react" height="180" style="border: 1px solid white; border-radius: 8px; margin: 20px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=neel1112&theme=react" height="180" style="border: 1px solid white; border-radius: 8px; margin: 10px;" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neel1112&layout=compact&theme=react" height="180" style="border: 1px solid white; border-radius: 8px; margin: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neel1112&layout=compact&theme=react" height="180" style="border: 1px solid white; border-radius: 8px; margin: 10px;" />
 
 </div>
-
 
 
 <!--# 📊 GitHub Stats:
