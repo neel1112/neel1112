@@ -48,7 +48,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/neel-merja-9b60aa273?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neel merja" height="30" width="40" /></a>
-<a href="mailto:neelmerja@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="30" width="40" /></a>
+<a href="neelmerja@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="30" width="40" /></a>
 <a href="https://instagram.com/n_e_e_l_.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="n_e_e_l_.11" height="30" width="40" /></a>
 </p>
 
